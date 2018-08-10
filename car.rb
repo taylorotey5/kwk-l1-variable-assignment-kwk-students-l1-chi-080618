@@ -1,7 +1,7 @@
 #OBJECT ORIENTIED PROGRAMMING notes 
 
 Class caller
-  def initialize = (model, make, year)
+  def initialize (model, make, year)
     @carmodel = model
     @carmake = make
     @caryear = year
